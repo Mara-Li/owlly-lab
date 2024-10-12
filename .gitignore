@@ -11,3 +11,5 @@ private/
 replit.nix
 docs/**
 .vscode/**
+.idea/**
+bun.lockb
